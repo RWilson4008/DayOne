@@ -1,0 +1,41 @@
+body{
+  background-color: burlywood;
+  margin: 0;
+}
+
+img{
+  height: 400px;
+}
+
+.Pangolin-Section{
+  background-color: blue;
+}
+
+.Washington-Section{
+  background-color: #66ffc2;
+}
+
+.White-Paragraph{
+  color: white;
+  font-size: 10px;
+}
+
+#paragraph-2{
+  font-size: 16px;
+}
+
+#Pangolin-div img{
+  height: 100px;
+}
+
+h3{
+  font-size: 14px;
+  color: pink;
+  text-align: center;
+}
+
+a{
+  color: white;
+  font-size: .5em;
+  font-style: italic;
+}
